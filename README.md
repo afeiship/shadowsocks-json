@@ -3,5 +3,6 @@
 
 ## install:
 ```shell
-
+bundle install
+whenever --update-crontab
 ```
