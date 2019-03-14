@@ -1,0 +1,245 @@
+{
+  "random": false,
+  "authPass": null,
+  "useOnlinePac": false,
+  "TTL": 0,
+  "global": false,
+  "reconnectTimes": 3,
+  "index": 0,
+  "proxyType": 0,
+  "proxyHost": null,
+  "authUser": null,
+  "proxyAuthPass": null,
+  "isDefault": false,
+  "pacUrl": null,
+  "configs": [
+    {
+      "enable": true,
+      "password": "isx.yt-82646628",
+      "method": "aes-256-cfb",
+      "remarks": "New Server",
+      "server": "a.isxb.top",
+      "kcptun": {
+        "nocomp": false,
+        "key": "it's a secrect",
+        "crypt": "aes",
+        "datashard": 10,
+        "mtu": 1350,
+        "mode": "fast",
+        "parityshard": 3,
+        "arguments": ""
+      },
+      "enabled_kcptun": false,
+      "server_port": "17403",
+      "remarks_base64": "TmV3IFNlcnZlcg=="
+    },
+    {
+      "enable": true,
+      "password": "isx.yt-63081050",
+      "method": "aes-256-cfb",
+      "remarks": "New Server",
+      "server": "b.isxb.top",
+      "kcptun": {
+        "nocomp": false,
+        "key": "it's a secrect",
+        "crypt": "aes",
+        "datashard": 10,
+        "mtu": 1350,
+        "mode": "fast",
+        "parityshard": 3,
+        "arguments": ""
+      },
+      "enabled_kcptun": false,
+      "server_port": "16200",
+      "remarks_base64": "TmV3IFNlcnZlcg=="
+    },
+    {
+      "enable": true,
+      "password": "isx.yt-36072069",
+      "method": "aes-256-cfb",
+      "remarks": "New Server",
+      "server": "c.isxb.top",
+      "kcptun": {
+        "nocomp": false,
+        "key": "it's a secrect",
+        "crypt": "aes",
+        "datashard": 10,
+        "mtu": 1350,
+        "mode": "fast",
+        "parityshard": 3,
+        "arguments": ""
+      },
+      "enabled_kcptun": false,
+      "server_port": "12614",
+      "remarks_base64": "TmV3IFNlcnZlcg=="
+    },
+    {
+      "enable": true,
+      "password": "PASSWORD",
+      "method": "aes-256-cfb",
+      "remarks": "New Server",
+      "server": "a.isxb.top",
+      "kcptun": {
+        "nocomp": false,
+        "key": "it's a secrect",
+        "crypt": "aes",
+        "datashard": 10,
+        "mtu": 1350,
+        "mode": "fast",
+        "parityshard": 3,
+        "arguments": ""
+      },
+      "enabled_kcptun": false,
+      "server_port": 17403,
+      "remarks_base64": "TmV3IFNlcnZlcg=="
+    },
+    {
+      "enable": true,
+      "password": "PASSWORD",
+      "method": "aes-256-cfb",
+      "remarks": "New Server",
+      "server": "a.isxb.top",
+      "kcptun": {
+        "nocomp": false,
+        "key": "it's a secrect",
+        "crypt": "aes",
+        "datashard": 10,
+        "mtu": 1350,
+        "mode": "fast",
+        "parityshard": 3,
+        "arguments": ""
+      },
+      "enabled_kcptun": false,
+      "server_port": 17403,
+      "remarks_base64": "TmV3IFNlcnZlcg=="
+    },
+    {
+      "enable": true,
+      "password": "PASSWORD",
+      "method": "aes-256-cfb",
+      "remarks": "New Server",
+      "server": "a.isxb.top",
+      "kcptun": {
+        "nocomp": false,
+        "key": "it's a secrect",
+        "crypt": "aes",
+        "datashard": 10,
+        "mtu": 1350,
+        "mode": "fast",
+        "parityshard": 3,
+        "arguments": ""
+      },
+      "enabled_kcptun": false,
+      "server_port": 17403,
+      "remarks_base64": "TmV3IFNlcnZlcg=="
+    },
+    {
+      "enable": true,
+      "password": "isx.yt-16766185",
+      "method": "aes-256-cfb",
+      "remarks": "New Server",
+      "server": "a.isxc.top",
+      "kcptun": {
+        "nocomp": false,
+        "key": "it's a secrect",
+        "crypt": "aes",
+        "datashard": 10,
+        "mtu": 1350,
+        "mode": "fast",
+        "parityshard": 3,
+        "arguments": ""
+      },
+      "enabled_kcptun": false,
+      "server_port": "10501",
+      "remarks_base64": "TmV3IFNlcnZlcg=="
+    },
+    {
+      "enable": true,
+      "password": "isx.yt-70079042",
+      "method": "aes-256-cfb",
+      "remarks": "New Server",
+      "server": "b.isxc.top",
+      "kcptun": {
+        "nocomp": false,
+        "key": "it's a secrect",
+        "crypt": "aes",
+        "datashard": 10,
+        "mtu": 1350,
+        "mode": "fast",
+        "parityshard": 3,
+        "arguments": ""
+      },
+      "enabled_kcptun": false,
+      "server_port": "16673",
+      "remarks_base64": "TmV3IFNlcnZlcg=="
+    },
+    {
+      "enable": true,
+      "password": "isx.yt-31634938",
+      "method": "aes-256-cfb",
+      "remarks": "New Server",
+      "server": "c.isxc.top",
+      "kcptun": {
+        "nocomp": false,
+        "key": "it's a secrect",
+        "crypt": "aes",
+        "datashard": 10,
+        "mtu": 1350,
+        "mode": "fast",
+        "parityshard": 3,
+        "arguments": ""
+      },
+      "enabled_kcptun": false,
+      "server_port": "11974",
+      "remarks_base64": "TmV3IFNlcnZlcg=="
+    },
+    {
+      "enable": true,
+      "password": "isx.yt-16766185",
+      "method": "aes-256-cfb",
+      "remarks": "New Server",
+      "server": "a.isxc.top",
+      "kcptun": {
+        "nocomp": false,
+        "key": "it's a secrect",
+        "crypt": "aes",
+        "datashard": 10,
+        "mtu": 1350,
+        "mode": "fast",
+        "parityshard": 3,
+        "arguments": ""
+      },
+      "enabled_kcptun": false,
+      "server_port": "10501",
+      "remarks_base64": "TmV3IFNlcnZlcg=="
+    },
+    {
+      "enable": true,
+      "password": "isx.yt-36072069",
+      "method": "aes-256-cfb",
+      "remarks": "New Server",
+      "server": "c.isxb.top",
+      "kcptun": {
+        "nocomp": false,
+        "key": "it's a secrect",
+        "crypt": "aes",
+        "datashard": 10,
+        "mtu": 1350,
+        "mode": "fast",
+        "parityshard": 3,
+        "arguments": ""
+      },
+      "enabled_kcptun": false,
+      "server_port": "12614",
+      "remarks_base64": "TmV3IFNlcnZlcg=="
+    }
+  ],
+  "proxyPort": 0,
+  "randomAlgorithm": 0,
+  "proxyEnable": false,
+  "enabled": true,
+  "autoban": false,
+  "proxyAuthUser": null,
+  "shareOverLan": false,
+  "localPort": 1080
+}
