@@ -21,7 +21,7 @@
 
 PROJECT_PATH = "./github/shadowsocks-json"
 
-every 2.hours do
+every 1.hour do
   command "ruby #{PROJECT_PATH}/src/app.rb"
 end
 
