@@ -6,3 +6,8 @@
 bundle install
 whenever --update-crontab
 ```
+
+## use ss-local:
+```shell
+brew install shadowsocks-libev
+```
