@@ -11,3 +11,6 @@ whenever --update-crontab
 ```shell
 brew install shadowsocks-libev
 ```
+
+## resources:
+- https://github.com/shadowsocks/shadowsocks-libev
