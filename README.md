@@ -22,7 +22,7 @@ brew install shadowsocks-libev
     ```
 4. set mac network proxies:
     
-    <img width="400" src="https://via.placeholder.com/200x100" />
+    <img width="400" src="https://ws2.sinaimg.cn/large/006tKfTcgy1g12t47c72hj30us0hugom.jpg" />
     
 5. start `ss-local` listen:
     ```shell
