@@ -1,9 +1,23 @@
 {
-  "server": "b.isxb.top",
-  "server_port": 19114,
+  "server": "a.isxb.top",
+  "server_port": "19370",
   "local_address": "0.0.0.0",
   "local_port": 1080,
-  "password": "isx.yt-34515502",
+  "password": "isx.yt-30178197",
   "timeout": 600,
-  "method": "aes-256-cfb"
+  "method": "aes-256-cfb",
+  "enable": true,
+  "remarks": "New Server",
+  "kcptun": {
+    "nocomp": false,
+    "key": "it's a secrect",
+    "crypt": "aes",
+    "datashard": 10,
+    "mtu": 1350,
+    "mode": "fast",
+    "parityshard": 3,
+    "arguments": ""
+  },
+  "enabled_kcptun": false,
+  "remarks_base64": "TmV3IFNlcnZlcg=="
 }

@@ -22,6 +22,7 @@ req = Net::HTTP::Get.new(uri)
 
 # template export:
 template_export = JSON.parse File.read(__dir__ + '/export_tmpl.json')
+template_ss_config = JSON.parse File.read(__dir__ + '/ss_config.json')
 config_item = JSON.parse File.read(__dir__ + '/config.json')
 
 info_list = ['server', 'server_port', 'password', 'method']
@@ -46,10 +47,10 @@ end
 
 
 template_export['configs'] = configs
+template_ss_config.merge!(configs.first)
 
 # Save
 File.write('./export.json',JSON.pretty_generate(template_export))
-
-p configs.size
+File.write('./ss-local.config.json',JSON.pretty_generate(template_ss_config))
 
 logger.info configs.size
