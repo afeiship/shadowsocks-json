@@ -15,7 +15,7 @@
   "configs": [
     {
       "enable": true,
-      "password": "isx.yt-82646628",
+      "password": "isx.yt-30178197",
       "method": "aes-256-cfb",
       "remarks": "New Server",
       "server": "a.isxb.top",
@@ -30,12 +30,12 @@
         "arguments": ""
       },
       "enabled_kcptun": false,
-      "server_port": "17403",
+      "server_port": "19370",
       "remarks_base64": "TmV3IFNlcnZlcg=="
     },
     {
       "enable": true,
-      "password": "isx.yt-63081050",
+      "password": "isx.yt-34515502",
       "method": "aes-256-cfb",
       "remarks": "New Server",
       "server": "b.isxb.top",
@@ -50,12 +50,12 @@
         "arguments": ""
       },
       "enabled_kcptun": false,
-      "server_port": "16200",
+      "server_port": "19114",
       "remarks_base64": "TmV3IFNlcnZlcg=="
     },
     {
       "enable": true,
-      "password": "isx.yt-36072069",
+      "password": "isx.yt-54622727",
       "method": "aes-256-cfb",
       "remarks": "New Server",
       "server": "c.isxb.top",
@@ -70,7 +70,7 @@
         "arguments": ""
       },
       "enabled_kcptun": false,
-      "server_port": "12614",
+      "server_port": "16722",
       "remarks_base64": "TmV3IFNlcnZlcg=="
     },
     {
@@ -135,7 +135,7 @@
     },
     {
       "enable": true,
-      "password": "isx.yt-16766185",
+      "password": "isx.yt-63020977",
       "method": "aes-256-cfb",
       "remarks": "New Server",
       "server": "a.isxc.top",
@@ -150,12 +150,12 @@
         "arguments": ""
       },
       "enabled_kcptun": false,
-      "server_port": "10501",
+      "server_port": "15582",
       "remarks_base64": "TmV3IFNlcnZlcg=="
     },
     {
       "enable": true,
-      "password": "isx.yt-70079042",
+      "password": "isx.yt-75198261",
       "method": "aes-256-cfb",
       "remarks": "New Server",
       "server": "b.isxc.top",
@@ -170,12 +170,12 @@
         "arguments": ""
       },
       "enabled_kcptun": false,
-      "server_port": "16673",
+      "server_port": "11049",
       "remarks_base64": "TmV3IFNlcnZlcg=="
     },
     {
       "enable": true,
-      "password": "isx.yt-31634938",
+      "password": "isx.yt-02032520",
       "method": "aes-256-cfb",
       "remarks": "New Server",
       "server": "c.isxc.top",
@@ -190,12 +190,12 @@
         "arguments": ""
       },
       "enabled_kcptun": false,
-      "server_port": "11974",
+      "server_port": "17558",
       "remarks_base64": "TmV3IFNlcnZlcg=="
     },
     {
       "enable": true,
-      "password": "isx.yt-16766185",
+      "password": "isx.yt-63020977",
       "method": "aes-256-cfb",
       "remarks": "New Server",
       "server": "a.isxc.top",
@@ -210,12 +210,12 @@
         "arguments": ""
       },
       "enabled_kcptun": false,
-      "server_port": "10501",
+      "server_port": "15582",
       "remarks_base64": "TmV3IFNlcnZlcg=="
     },
     {
       "enable": true,
-      "password": "isx.yt-36072069",
+      "password": "isx.yt-54622727",
       "method": "aes-256-cfb",
       "remarks": "New Server",
       "server": "c.isxb.top",
@@ -230,7 +230,7 @@
         "arguments": ""
       },
       "enabled_kcptun": false,
-      "server_port": "12614",
+      "server_port": "16722",
       "remarks_base64": "TmV3IFNlcnZlcg=="
     }
   ],
