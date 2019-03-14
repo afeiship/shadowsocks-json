@@ -28,6 +28,13 @@ brew install shadowsocks-libev
     ```shell
     ss-local -c /Users/feizheng/github/shadowsocks-json/ss-local.config.json
     ```
+7. mac set network proxy by cli:
+    ```shell
+    networksetup -setwebproxy "Wi-fi" 127.0.0.1 8118
+    networksetup -setsecurewebproxy "Wi-fi" 127.0.0.1 8118
+    ```
+
+
 
 ## resources:
 - https://github.com/shadowsocks/shadowsocks-libev
