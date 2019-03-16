@@ -1,0 +1,22 @@
+{
+  "name": "shadowsocks-json",
+  "version": "1.0.0",
+  "description": "Export shadowsocks json file.",
+  "main": "src/app.rb",
+  "scripts": {
+    "start": "ruby ./src/app.rb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/shadowsocks-json.git"
+  },
+  "keywords": [
+    "ss"
+  ],
+  "author": "afei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/shadowsocks-json/issues"
+  },
+  "homepage": "https://github.com/afeiship/shadowsocks-json#readme"
+}
