@@ -50,3 +50,6 @@ brew install shadowsocks-libev
 ```shell
 gem install nokogiri -- --use-system-libraries
 ```
+
+## resources:
+- https://stackoverflow.com/questions/18818926/incompatible-library-version-nokogiri-bundle-requires-version-11-0-0-or-later
