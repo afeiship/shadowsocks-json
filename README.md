@@ -44,3 +44,9 @@ brew install shadowsocks-libev
 - https://github.com/shadowsocks/shadowsocks-libev
 - http://www.cnblogs.com/LiLihongqiang/p/5943889.html
 - https://www.zfl9.com/ss-local.html
+
+
+## install failed:
+```shell
+gem install nokogiri -- --use-system-libraries
+```
