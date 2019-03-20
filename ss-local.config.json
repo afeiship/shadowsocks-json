@@ -1,9 +1,9 @@
 {
   "server": "a.isxb.top",
-  "server_port": "17185",
+  "server_port": "14902",
   "local_address": "0.0.0.0",
   "local_port": 1080,
-  "password": "isx.yt-35339283",
+  "password": "isx.yt-42381497",
   "timeout": 600,
   "method": "aes-256-cfb",
   "enable": true,
